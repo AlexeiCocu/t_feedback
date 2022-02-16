@@ -2,7 +2,7 @@
   "name": "t_feedback",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "proxy": "https://t-feedback.netlify.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
@@ -48,3 +48,5 @@
     "prop-types": "^15.8.1"
   }
 }
+
+
